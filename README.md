@@ -18,9 +18,10 @@ On Windows (PowerShell):
 
 ```powershell
 $env:GEMINI_API_KEY = ""
-$env:GEMINI_ENDPOINT = "https://..."  # optional; default used otherwise
 ```
-## or make a .env file where you will store you GEMINI_API_KEY
+or 
+
+make a .env file where you will store you GEMINI_API_KEY
 
 Usage
 
